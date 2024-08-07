@@ -1,0 +1,22 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.title {
+  background-color: rgb(255, 149, 20);
+  color: #ffffff;
+  text-align: center;
+}
+
+h2 {
+  color: rgb(255, 149, 20);
+}
+
+ol li {
+  /* background-color: rgb(255, 149, 20); */
+  /* color: #ffffff; */
+}
+
+#recipes {
+  font-size: 25px;
+}
